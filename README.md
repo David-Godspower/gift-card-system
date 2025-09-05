@@ -37,7 +37,7 @@ Gift Card System/
    git clone https://github.com/David-Godspower/gift-card-system.git
 
 
-Open index.html in your browser.
+2. Open index.html in your browser.
 
 ## 👨‍💻 Author
 
