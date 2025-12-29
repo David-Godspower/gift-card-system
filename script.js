@@ -51,3 +51,6 @@ document.addEventListener('DOMContentLoaded', () => {
       // Debug helper (optional): uncomment to log errors
       // console.log('Ready — theme toggle and flip handlers attached.');
     });
+
+
+    document.getElementById("year").textContent = new Date().getFullYear();
